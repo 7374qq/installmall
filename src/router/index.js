@@ -9,6 +9,10 @@ const Detail=()=>import('views/detail/Detail')
 
 const routes=[
     {
+        path: '/',
+        redirect: '/home'
+    },
+    {
         path:'/home',
         component:Home
     },

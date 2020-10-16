@@ -37,6 +37,7 @@ export default {
     position: relative;
 
     width:48%;/*多个屏幕中可以适应*/
+    height:280px;
   }
   .goods img {
     width: 100%;
