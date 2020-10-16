@@ -44,7 +44,8 @@ export default {
         flex:1;
         text-align:center;
         background-color:#f6f6f6;
-        box-shadow:0px -2px 2px rgba(214, 194, 194, 0.8);
+        box-shadow:0px 1px 1px rgba(100, 100, 100, 0.4);
+        padding-top:2px;
     }
     .tab-bar-item img{
         width:24px;
